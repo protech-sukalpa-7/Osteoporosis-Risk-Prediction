@@ -1,6 +1,6 @@
 # Osteoporosis Risk Prediction
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Osteoporosis Risk Prediction** project is a Machine Learning-based web application designed to predict the risk of osteoporosis in individuals based on various health-related parameters.
 
@@ -8,7 +8,7 @@ This system helps users and healthcare professionals identify potential osteopor
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Predicts osteoporosis risk using Machine Learning models
 * User-friendly web interface for data input
@@ -19,7 +19,7 @@ This system helps users and healthcare professionals identify potential osteopor
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python**
 * **Pandas**
@@ -31,7 +31,7 @@ This system helps users and healthcare professionals identify potential osteopor
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 Osteoporosis-Risk-Prediction/
@@ -76,7 +76,7 @@ python app.py
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 Include your model accuracy, precision, recall, and F1-score here.
 
@@ -89,13 +89,13 @@ Example:
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 Add screenshots of your web app or result page here.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Improve prediction accuracy
 * Add more health parameters
@@ -104,8 +104,8 @@ Add screenshots of your web app or result page here.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sukalpa Manna**
 
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+GitHub: https://github.com/protech-sukalpa-7
