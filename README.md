@@ -8,6 +8,11 @@ This system helps users and healthcare professionals identify potential osteopor
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [Visit the Website](https://your-website-link.com)
+
+
 ##  Features
 
 * Predicts osteoporosis risk using Machine Learning models
