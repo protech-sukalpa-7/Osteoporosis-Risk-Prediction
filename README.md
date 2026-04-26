@@ -8,7 +8,7 @@ This system helps users and healthcare professionals identify potential osteopor
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 🔗 [Visit the Website](https://osteoporosis-risk-prediction-lq8r.onrender.com/)
 
