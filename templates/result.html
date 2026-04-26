@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container result-box">
+    <h1>Prediction Result</h1>
+
+    {% if prediction == 1 %}
+        <h2 class="danger">Osteoporosis Risk Detected</h2>
+    {% else %}
+        <h2 class="safe">No Osteoporosis Risk</h2>
+    {% endif %}
+
+    <div class="result-details">
+        <p><strong>Probability:</strong> {{ probability }}%</p>
+        <p><strong>Risk Level:</strong> {{ risk }}</p>
+    </div>
+
+    <a href="/" class="back-btn">⬅ Go Back</a>
+</div>
+
+</body>
+</html>
