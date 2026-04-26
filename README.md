@@ -91,7 +91,7 @@ Example:
 
 ##  Screenshots
 
-<img width="1898" height="857" alt="image" src="https://github.com/user-attachments/assets/ab016549-f68a-4add-b7a4-c3849e32e4ba" />
+<img width="1895" height="858" alt="image" src="https://github.com/user-attachments/assets/6292d1cb-a636-4d72-800b-d6b960dee98f" />
 
 
 ---
