@@ -53,7 +53,7 @@ Osteoporosis-Risk-Prediction/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Osteoporosis-Risk-Prediction.git
+git clone https:/protech-sukalpa-7/github.com//Osteoporosis-Risk-Prediction.git
 ```
 
 2. Navigate to the project folder:
